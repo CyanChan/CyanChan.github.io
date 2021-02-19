@@ -1,2 +1,2 @@
-# cyan.github.io
-个人博客
+# README
+分享一些技术内容的博客仓库
